@@ -1,7 +1,7 @@
 # DuniMusic2
 A simple application to listen to music. This application is version 2 of DuniMusic application.
 
-I made this app with my own design at this application.
+I made this app with my own design.
 
 DuniMusic is an educational application to learn how to play music in android, ... .
 
