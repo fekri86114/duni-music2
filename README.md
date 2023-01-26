@@ -38,6 +38,8 @@ in `build.gradle (:app)`:
     }
  
 in `build.properties (Projet Properties)`:
+  
+  ! add it below the `android.useAndroidX=true` !
 
     android.enableJetifier=true
   
