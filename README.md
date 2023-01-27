@@ -48,7 +48,7 @@ in `settings.gradle (Project Settings)`:
     pluginManagement {
       repositories {
         ...
-        maven { url 'www.jitpack.io' }
+        maven { url 'https://jitpack.io' }
       }
     }
     
@@ -56,7 +56,7 @@ in `settings.gradle (Project Settings)`:
       ...
       repositories {
         ...
-        maven { url 'www.jitpack.io' }
+        maven { url 'https://jitpack.io' }
       }
     }
 
